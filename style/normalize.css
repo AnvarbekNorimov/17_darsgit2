@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Roboto;
+}
+
+.container {
+  width: 100%;
+  max-width: 1140px;
+  margin: 10px auto;
+}
+.nav-items {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
+.futer1-li {
+  list-style: none;
+}
